@@ -1,0 +1,50 @@
+
+.contenedor1{
+display: flex;
+justify-content: center;
+margin-bottom: 150px;
+
+
+}
+
+.columna1{
+
+background-color: rgb(255, 255, 255);
+padding: 25px;
+margin: 150px 15px;
+
+}
+
+.h1{
+
+    font-weight: 700;
+        font-size: 22px;
+        color: black;
+        margin-bottom: 10px;
+}
+
+
+
+.contenedor2{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 80px;
+
+}
+
+
+.columna2{
+    
+    background-color: rgb(255, 255, 255);
+    padding: 25px;
+    margin: 10px 200px;
+    
+    }
+
+ .columna3{
+    
+        background-color: rgb(255, 255, 255);
+        padding: 25px;
+        margin: 150px 15px;
+        
+        }

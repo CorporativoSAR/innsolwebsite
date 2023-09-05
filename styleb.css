@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+
+body {
+   text-align: center;
+   font-family: sans-serif;
+}
+
+.cita {
+    background: #333333;
+    padding: 10px;
+}    
+
+
+.title{
+    margin-bottom: 40px;
+    font-size: 50px;
+    font-weight: 500;
+    color: rgb(247, 255, 14);
+    }    
+
+    .boton{
+        display: inline-block;
+        width: 150px;
+        padding: 12px;
+        background: #d9d60f;
+        text-decoration: none;
+        color: black;
+        border-radius: 100px;
+        text-align: center;
+        font-size: 14px;
+        font-weight: 600;
+        margin: auto;
+
+        }
